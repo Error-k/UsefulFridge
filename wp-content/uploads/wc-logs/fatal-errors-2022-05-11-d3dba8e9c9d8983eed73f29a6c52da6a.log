@@ -1,0 +1,74 @@
+2022-05-11T13:42:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\UsefulFridge\wp-includes\Requests\Transport\cURL.php на строке 484
+
+2022-05-11T13:53:05+00:00 CRITICAL syntax error, unexpected '?>' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\index.php на строке 67
+
+2022-05-11T14:06:49+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 19
+
+2022-05-11T14:08:22+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 19
+
+2022-05-11T14:08:42+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\index.php на строке 136
+
+2022-05-11T14:11:43+00:00 CRITICAL syntax error, unexpected '$filter' (T_VARIABLE), expecting ',' or ';' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\index.php на строке 75
+
+2022-05-11T14:12:19+00:00 CRITICAL syntax error, unexpected '`', expecting ',' or ';' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\index.php на строке 71
+
+2022-05-11T14:13:41+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 19
+
+2022-05-11T14:14:37+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 18
+
+2022-05-11T14:15:05+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 18
+
+2022-05-11T14:16:22+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 18
+
+2022-05-11T14:16:48+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 26
+
+2022-05-11T16:22:25+00:00 CRITICAL syntax error, unexpected 'lsChoice1' (T_STRING) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 78
+
+2022-05-11T16:34:38+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\UsefulFridge\wp-includes\Requests\Transport\cURL.php на строке 484
+
+2022-05-11T16:34:47+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 134
+
+2022-05-11T16:37:13+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 128
+
+2022-05-11T16:38:11+00:00 CRITICAL syntax error, unexpected '<<' (T_SL) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 76
+
+2022-05-11T16:38:32+00:00 CRITICAL syntax error, unexpected '<<' (T_SL) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 76
+
+2022-05-11T16:39:30+00:00 CRITICAL syntax error, unexpected '<<' (T_SL) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 76
+
+2022-05-11T16:40:19+00:00 CRITICAL syntax error, unexpected '<<' (T_SL) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 76
+
+2022-05-11T16:40:26+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 126
+
+2022-05-11T16:57:55+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 138
+
+2022-05-11T16:58:06+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 91
+
+2022-05-11T16:58:39+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 91
+
+2022-05-11T16:59:12+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 91
+
+2022-05-11T16:59:22+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 138
+
+2022-05-11T16:59:35+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 91
+
+2022-05-11T17:00:33+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 85
+
+2022-05-11T17:08:01+00:00 CRITICAL syntax error, unexpected 'var' (T_VAR) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 76
+
+2022-05-11T17:08:22+00:00 CRITICAL syntax error, unexpected 'global' (T_GLOBAL) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 76
+
+2022-05-11T17:08:38+00:00 CRITICAL syntax error, unexpected '=', expecting ',' or ';' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 76
+
+2022-05-11T17:15:13+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 142
+
+2022-05-11T17:15:19+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 96
+
+2022-05-11T17:15:39+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 96
+
+2022-05-11T17:30:00+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 96
+
+2022-05-11T18:12:56+00:00 CRITICAL syntax error, unexpected ',' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 111
+
+2022-05-11T18:13:00+00:00 CRITICAL syntax error, unexpected ',' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\recipes.php на строке 111
+

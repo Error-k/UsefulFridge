@@ -1,0 +1,18 @@
+2022-05-19T15:17:49+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\UsefulFridge\wp-includes\Requests\Transport\cURL.php на строке 484
+
+2022-05-19T16:41:44+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\UsefulFridge\wp-includes\Requests\Transport\cURL.php на строке 484
+
+2022-05-19T16:56:58+00:00 CRITICAL syntax error, unexpected '"' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\functions.php на строке 63
+
+2022-05-19T16:57:01+00:00 CRITICAL syntax error, unexpected '"' в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\functions.php на строке 63
+
+2022-05-19T16:59:42+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\functions.php на строке 48
+
+2022-05-19T16:59:44+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\functions.php на строке 48
+
+2022-05-19T17:22:15+00:00 CRITICAL syntax error, unexpected '$current_user' (T_VARIABLE) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\functions.php на строке 52
+
+2022-05-19T17:22:18+00:00 CRITICAL syntax error, unexpected '$current_user' (T_VARIABLE) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\functions.php на строке 52
+
+2022-05-19T17:22:19+00:00 CRITICAL syntax error, unexpected '$current_user' (T_VARIABLE) в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\functions.php на строке 52
+

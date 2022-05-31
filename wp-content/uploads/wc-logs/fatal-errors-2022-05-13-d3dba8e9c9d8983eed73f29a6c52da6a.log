@@ -1,0 +1,14 @@
+2022-05-13T12:15:55+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\UsefulFridge\wp-includes\Requests\Transport\cURL.php на строке 484
+
+2022-05-13T12:20:46+00:00 CRITICAL Out of memory (allocated 81788928) (tried to allocate 20480 bytes) в C:\OpenServer\domains\UsefulFridge\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-product-variations-controller.php на строке 418
+
+2022-05-13T13:05:56+00:00 CRITICAL syntax error, unexpected ')', expecting end of file в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\functions.php на строке 32
+
+2022-05-13T13:05:59+00:00 CRITICAL syntax error, unexpected ')', expecting end of file в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\functions.php на строке 32
+
+2022-05-13T13:06:00+00:00 CRITICAL syntax error, unexpected ')', expecting end of file в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\functions.php на строке 32
+
+2022-05-13T13:06:02+00:00 CRITICAL syntax error, unexpected ')', expecting end of file в C:\OpenServer\domains\UsefulFridge\wp-content\themes\UFFR\functions.php на строке 32
+
+2022-05-13T16:35:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\UsefulFridge\wp-includes\Requests\Transport\cURL.php на строке 484
+
